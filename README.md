@@ -1,2 +1,2 @@
 # Messenger
-Application for sending and receiving
+Application for sending and receiving messages
